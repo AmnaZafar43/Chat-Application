@@ -1,0 +1,48 @@
+name: we_chat
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.3.2 <4.0.0"
+
+dependencies:
+  cached_network_image: ^3.3.1
+  cloud_firestore: ^4.16.1
+  cupertino_icons: ^1.0.6
+  emoji_picker_flutter: ^2.2.0
+  encrypt: 5.0.0
+  firebase_auth: ^4.19.1
+  firebase_core: ^2.29.0
+  firebase_messaging: ^14.8.1
+  firebase_storage: ^11.7.1
+  flutter:
+    sdk: flutter
+  flutter_notification_channel: ^3.1.0
+  gallery_saver_updated: ^3.0.0
+  google_sign_in: ^6.2.1
+  googleapis_auth: ^1.6.0
+  http: ^1.2.1
+  image_picker: ^1.0.8
+
+dev_dependencies:
+
+  #   flutter_launcher_icons: "^0.10.0"
+  # flutter_icons:
+  #   android: "ic_launcher"
+  #   ios: true
+  #   image_path: "images/icon.png"
+  #   min_sdk_android: 21
+  #   remove_alpha_ios: true
+  # For recommended coding practices
+  flutter_lints: ^3.0.2
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  # For enabling material design
+  uses-material-design: true
+
+  # App Assets
+  assets:
+    - images/

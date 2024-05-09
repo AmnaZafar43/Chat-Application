@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686761649168",
+    "firebase_url": "https://chat-app-54f4e-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-54f4e",
+    "storage_bucket": "chat-app-54f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686761649168:android:381e07d84f7932e1e29695",
+        "android_client_info": {
+          "package_name": "com.harshRajpurohit.we_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686761649168-7hglu3hdqitr7dgirkossn7raar9ph0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_gu1pzRuIMXrXXlDQTvqxac3HRb2yGeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686761649168-7hglu3hdqitr7dgirkossn7raar9ph0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
